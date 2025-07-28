@@ -1,3 +1,15 @@
+<div align="center">
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZuZnNuOTZ3YnR0OWZkcnZxYndxanhkMWV4OGhocnk1b3pmazd3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aadhildev2025.aadhildev2025&"  />
+</div>
+
+###
+
 # 👋 Hello World! I'm Aadhil
 
 🌴 From the sunny coasts of **Puttalam, Sri Lanka**  
