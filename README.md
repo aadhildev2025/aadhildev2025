@@ -10,7 +10,7 @@
 # 👋 Hello World! I'm Aadhil
 
 🌴 From the sunny coasts of **Puttalam, Sri Lanka**  
-💻 A **Frontend Developer** who makes pixels dance  
+💻 A **Full Stack Developer** who makes pixels dance  
 🌱 Currently learning the magic of the **MERN Stack**  
 🧠 Familiar with:
 - `HTML`, `CSS`, `JavaScript`
